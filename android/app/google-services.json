@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315562337277",
+    "project_id": "coredax-meeting",
+    "storage_bucket": "coredax-meeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315562337277:android:bc1d62e770a65159062f94",
+        "android_client_info": {
+          "package_name": "com.coredax.meeting_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--ZCLMyKqT2zdBR4zwf9R3ICQ3nLvtKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
